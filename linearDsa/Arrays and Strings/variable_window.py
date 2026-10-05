@@ -53,3 +53,26 @@
 #     lenght=max(lenght,right-left+1)
 
 # print(lenght)
+
+## optimized method for finding the lenghot of the subarray problem.
+
+# arr=[2,5,1,10,10]
+# target=14
+
+# left=0
+# lenght=0
+# win_sum=0
+
+# for right in range(len(arr)):
+#     win_sum+=arr[right]
+#     if win_sum > target:
+#         win_sum-=arr[left]
+#         left+=1
+
+#     if win_sum<=target :
+#         lenght=max(lenght,right-left+1)
+
+# print(lenght)
+
+
+minimum
