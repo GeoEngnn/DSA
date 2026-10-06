@@ -73,6 +73,3 @@
 #         lenght=max(lenght,right-left+1)
 
 # print(lenght)
-
-
-minimum
