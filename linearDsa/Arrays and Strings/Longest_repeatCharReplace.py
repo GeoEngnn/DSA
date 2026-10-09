@@ -2,7 +2,7 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         left=0
         lenght=0
-        max_freq=0
+        max_freq=0  ## s= AAABABBC
         max_len=0
         map={}
 
