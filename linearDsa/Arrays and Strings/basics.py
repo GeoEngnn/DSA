@@ -66,6 +66,3 @@
 #         left +=1
 
 # print(arr ,left+1)
-        
-
-  
